@@ -1,0 +1,23 @@
+{
+  "name": "require-xml",
+  "version": "0.0.1",
+  "description": "require('require-xml') lets you load XML files using require syntax. For example: var config = require('./config.xml');",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:olalonde/require-xml.git"
+  },
+  "keywords": [
+    "require",
+    "xml",
+    "better-require"
+  ],
+  "author": "Olivier Lalonde <olalonde@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "xml2json": ""
+  }
+}
